@@ -1,5 +1,5 @@
 # guestBook App
-My First Single Django Web Application.
+My First Simple Django Web Application.
 
 The Application allow new visitor to send some text to the guestbook
 
