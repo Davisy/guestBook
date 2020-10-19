@@ -1,7 +1,7 @@
-# guestBook App
+# GuestBook App
 My First Simple Django Web Application.
 
-The Application allow new visitor to send some text to the guestbook
+The Application allow new visitor to send some text to the GuestBook
 
 ## How to configure
 1.Install Python 3.5 or more
